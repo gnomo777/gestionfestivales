@@ -1,4 +1,4 @@
-## Gestión  festivales
+## metodologia gestion  y produccion de festivales
 =================
 
 ## metodologia de gestion ganizacion pre produccion y produccion de festivales  a nivel local ,nacional e internacional

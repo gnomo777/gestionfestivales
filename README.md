@@ -7,12 +7,7 @@ no necesariamente es indispensable el dinero para la organizacion de conciertos 
 lo primero es soñar ,cual es la nesecidad que nos motiva , tener muy en claro cual es el objetivo de nuestro sueño de nuestra idea, a quien le queremos 
 llegar .analizaremos tips basicos y rutas para una buena gestion
 
-
-
-
-
-
-nombre del festival 
+__nombre del festival__ es muy importante un nombre al presentar la propuesta a cualquier organizacion para la gestion de un concierto una identidad del mismo y un por que ,un nombre llamativo que venda nuestro proyecto 
 objetivos del festival
 publico objetivo
 mapeo de organizaciones

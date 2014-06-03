@@ -4,8 +4,7 @@
 - negociacion
 
 
----para realizar un festival es nesesario identificar la nesecidad o problema ,
-tener una  buena idea y habilidad para una buena negociacion
+
 
 .desde el año 2002 hemos venido realizando diferentes tipos de festivales (conciertos )de barrio. tales como revolucion sin muertos que en su primer version empezo como un evento de barrio,una idea que surgio por la necesidad de proyectar nuestras canciones y los diferentes grupos
 de nuestro territorio, eramos solo unos jovenes sin una moneda pero con una idea y un obetivo claro,nos preguntamos ¿como conseguir recursos ? y la respuesta fue solo una palabra "gestion"tener la habilidad de negociacion para conseguir recursos en pro de nuestro primer concierto que su inicio

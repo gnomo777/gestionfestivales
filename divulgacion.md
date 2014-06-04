@@ -1,10 +1,9 @@
-#gestion de festivales
-- la idea 
-- identificacion de la nesesidad o problema
-- negociacion
+#gestion de festivale
 
 
 
+ ---- para la realizacion  de un  festival es necesario identificar la nesecidad o Problema Tener una gran  idea y habilidad  buena Una negociacion
+ +
 
 .desde el año 2002 hemos venido realizando diferentes tipos de festivales (conciertos )de barrio. tales como revolucion sin muertos que en su primer version empezo como un evento de barrio,una idea que surgio por la necesidad de proyectar nuestras canciones y los diferentes grupos
 de nuestro territorio, eramos solo unos jovenes sin una moneda pero con una idea y un obetivo claro,nos preguntamos ¿como conseguir recursos ? y la respuesta fue solo una palabra "gestion"tener la habilidad de negociacion para conseguir recursos en pro de nuestro primer concierto que su inicio

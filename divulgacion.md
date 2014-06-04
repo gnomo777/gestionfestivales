@@ -12,7 +12,7 @@ un sonido desastroso donde mas o menos se sonaba y medio se escuchaban las liric
 
 la idea es el inicio lo mas importante el primer paso depende de lo  innovadora y  llamativa de esta es la oportunidad para las organizaciones donde la queramos presentar se enamoren de ella .una buena idea es sinonimo de un gran proyecto .las ideas surgen de las nesesidades  o problemas de nuestro contexto ,nuestro festival "revolucion sin muertos"y otros eventos como la hip colecta, martires,los premios hip hop de la 13 entre otros cada uno de ellos
  nace de una nesesidad o problema en especifico , (conmemorar una fecha
-proyectar agrupaciones artisticas, solidarizarse con los mas nesesitados,homenaje a los caidos o reconocimiento a los artistas de nuestro territorio) cada una de ellos suple una nesesidad.pero no basta con solo una gran idea o identificar un problema o necesidad ,
+proyectar agrupaciones artisticas, solidarizarse con los mas nesesitados,homenaje a los caidos o reconocimiento a los artistas de nuestro territorio) cada una de ellos suple una nesesidad.pero no basta con solo una gran idea o identificar un problema o necesidad ,esto es solo algunos de los pasos en un camino por recorrer, es de vital importancia  tener una gran hablidad para negociar, ser claro ,estar preparado para todas las preguntas en cuestion ,es fundamental  el saber delegar dependiendo los perfiles de cada persona para cada tarea en especifico, la persona que nos represente ala hora de negociar debe de ser alguien muy habil para hablar 
 
 
 el saber  hablar

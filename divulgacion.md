@@ -16,8 +16,9 @@ proyectar agrupaciones artisticas, solidarizarse con los mas nesesitados,homenaj
 para empezar a gestar un concierto de barrio debemos hacer un mapeo de las diferentes organizaciones de la zona (corporaciones, ong ,la juntas de accion comunal empresa privada etc) hasta una simple tienda de barrio nos puede aportar en contraprestacion como promocionar en el evento sus productos y servicios
 debemos elaborar un proyecto en donde se explique todo, este debe de tener __titulo__,__fundamentacion__ (¿por que es nesesario este proyecto),__locacion__(¿donde se va a realizar el proyecto?),__destinatarios__(¿a quien va dirigido el proyecto?,__objetivos generales y especificos__(¿que pretende realizar el proyecto?__temporalizacion__(¿cuanto tiempo dura el proyecto?__metodologia y actividades__(como voy a llegar a conseguir mis objetivos),__recurso humano y equipo tecnico__(¿quien va a realizar el proyecto?,__recursos materiales y financieros__(¿con que vamos a realizar el proyecto?,__evaluacion y metodos__(¿como sabre si he cumplido mis objetivos?
  no es conveniente presentar en primera instancia el proyecto general  
-debemos elaborar una propuesta de una sola pagina que explique de forma presisa y muy clara nuestra  idea  
-
+debemos elaborar una propuesta de una sola pagina que explique de forma presisa y muy clara nuestra  idea.  
+hay 2 tipos de eventos uno es la forma formal en donde nesesitamos  todos los permisos para su realizacion(constancia expedida por el simpad ,poliza de seguros permiso del transito si hay cierre de vias ,saico acimpro permiso dagreb, visto bueno por parte de la secretaria de espacio publico simpad contascia expedida por el comando de policia del la ciudad,constancia servico de aseo,servico gratuito de baños)
+ acreditar 
 
 
 

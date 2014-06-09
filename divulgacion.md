@@ -20,7 +20,8 @@ debemos elaborar una propuesta de una sola pagina que explique de forma presisa 
 hay 2 tipos de eventos 
 uno es la forma formal en donde nesesitamos  todos los permisos para su realizacion(constancia expedida por el simpad ,poliza de seguros permiso del transito si hay cierre de vias ,saico acimpro permiso dagreb, visto bueno por parte de la secretaria de espacio publico simpad contascia expedida por el comando de policia del la ciudad,constancia servico de aseo,servico gratuito de baños)
 el otro tipo es es el denominado__ toma __es un poco riesgoso pero es en el que tendremos mas enfoque  ya q se omiten todos los permisos que por un lado son my costosos y por el otro la tramitilogia es ardua 
- 
+ una toma  es un evento en donde nos empoderamos de un lugar (cancha esquina callejon etc)si ningun tipo de permiso
+
 
 
 

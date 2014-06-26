@@ -10,6 +10,9 @@ de nuestro territorio, éramos solo unos jóvenes sin una moneda pero con una id
 empezó en una tarima muy pequeña 4x4
 un sonido desastroso donde mas o menos se sonaba y medio se escuchaban las líricas de los grupos ,recuerdo que al llegar la noche el breve escenario se oscureció y no se podia ver quien era el que estaba rapeando, muy preocupados por  lo que estaba pasando tuvimos que conseguir desesperadamente  un bombillo de una casa para medio identificar los exponentes.Nos sirvió de experiencia para la  segunda version la cual nuestra principal preocupación aparte de sonido y tarima tambien era la gestion de una buena iluminación para el escenario
 
+[revolucion sin muertos] (http://www.youtube.com/watch?v=LxfA93Jqxrk)
+
+
 La idea es el inicio lo mas importante el primer paso depende de lo  innovadora y  llamativa de esta, es la oportunidad para las organizaciones donde la queramos presentar se enamoren de ella .Una buena idea es sinonimo de un gran proyecto ,las ideas surgen de las necesidades  o problemas de nuestro contexto ,las necesiades siempre se dan circuntancialmente dependiendo de muchos factores, en caso de los festivales la poca oferta cultural en la cuidad. 
   
  Nuestro festival "revolución sin muertos"y otros eventos como la hip colecta, mártires,los premios hip hop de la 13 entre otros cada uno de ellos nace de una necesidad o problema en especifico , (conmemorar una fecha

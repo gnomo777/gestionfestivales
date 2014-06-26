@@ -9,6 +9,8 @@ Desde el año 2002 hemos venido realizando diferentes tipos de festivales (conci
 de nuestro territorio, éramos solo unos jóvenes sin una moneda pero con una idea y un objetivo claro,nos preguntamos ¿como conseguir recursos ? y la respuesta fue solo una palabra "gestion"tener la ___habilidad de negociación___ para conseguir recursos en pro de nuestro primer concierto que su inicio
 empezó en una tarima muy pequeña 4x4
 un sonido desastroso donde mas o menos se sonaba y medio se escuchaban las líricas de los grupos ,recuerdo que al llegar la noche el breve escenario se oscureció y no se podia ver quien era el que estaba rapeando, muy preocupados por  lo que estaba pasando tuvimos que conseguir desesperadamente  un bombillo de una casa para medio identificar los exponentes.Nos sirvió de experiencia para la  segunda version la cual nuestra principal preocupación aparte de sonido y tarima tambien era la gestion de una buena iluminación para el escenario
+
+
 [revolucion sin muertos] (http://www.youtube.com/watch?v=GixiTRlGVzw) 2008
 [revolucion sin muertos] (http://www.youtube.com/watch?v=i-_v0hXmMRE) 2009
 [revolucion sin muertos] (http://www.youtube.com/watch?v=LxfA93Jqxrk) 2010

@@ -38,6 +38,11 @@ el otro tipo es es el denominado __toma__ es un poco riesgoso pero es en el que 
  una toma  es un evento en donde nos empoderamos de un lugar (cancha esquina callejón etc)si ningún tipo de permiso
 
 
+especificacion de lo componentes de un proyecto
+
+* Titulo del proyecto 
+
+Un nombre llamativo y a la vez relacionado con la temática que va a tratar es generalmente el Titulo del proyecto que encabezara la primera pagina de cada uno de los proyectos. Generalmente esta portada puede incluir en un menor tamaño los logotipos y nombre de la entidad o personas que relizan el proyecto. 
 
 
 

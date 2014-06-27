@@ -54,6 +54,11 @@ Este debe ser fiel y facilitar el acceso a los datos de importancia. Dando posic
 Generalmente es recomendable colocar una breve introducción al proyecto, la cual puede ser un resumen de lo que contiene el proyecto. No debe exceder del folio de amplitud y en ella tratariamos de responder a todas las cuestiones del proyecto a razón de una o dos lineas de extensión. 
 
 
+* Fundamentacion: 
+
+En ella incluiremos un marco de referencia del proyecto y explicaremos el porque de la necesidad de llevar a cabo este proyecto en cuestión y no otro. Muchos de los proyectos no se conceden por no poseer una buena fundamentación. Si es necesario, una nota que suele dar resultado es añadir algo de antropoligia social y cultural que defienda el proyecto y que apoyara al mismo. 
+
+
 
 
 

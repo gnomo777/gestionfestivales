@@ -60,7 +60,7 @@ En ella incluiremos un marco de referencia del proyecto y explicaremos el porque
 
 * Ambito. Localizacion: 
 
-Los proyectos generalmente son llevados a cabo en un ambito muy cerrado. Generalmente se tratará de un barrio, una ciudad, un pueblo, un ayuntamiento. 
+Los proyectos generalmente son llevados a cabo en un ambito muy cerrado. Generalmente se tratará de un barrio, una ciudad, un pueblo. 
 
 Debemos situar tanto el donde se realiza el proyecto como el territorio 
 que deseamos abarcar en el. 

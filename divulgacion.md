@@ -58,6 +58,15 @@ Generalmente es recomendable colocar una breve introducción al proyecto, la cua
 
 En ella incluiremos un marco de referencia del proyecto y explicaremos el porque de la necesidad de llevar a cabo este proyecto en cuestión y no otro. Muchos de los proyectos no se conceden por no poseer una buena fundamentación. Si es necesario, una nota que suele dar resultado es añadir algo de antropoligia social y cultural que defienda el proyecto y que apoyara al mismo. 
 
+* Ambito. Localizacion: 
+
+Los proyectos generalmente son llevados a cabo en un ambito muy cerrado. Generalmente se tratará de un barrio, una ciudad, un pueblo, un ayuntamiento. 
+
+Debemos situar tanto el donde se realiza el proyecto como el territorio 
+que deseamos abarcar en el. 
+
+
+
 
 
 

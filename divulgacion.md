@@ -44,6 +44,16 @@ especificacion de lo componentes de un proyecto
 
 Un nombre llamativo y a la vez relacionado con la temática que va a tratar es generalmente el Titulo del proyecto que encabezara la primera pagina de cada uno de los proyectos. Generalmente esta portada puede incluir en un menor tamaño los logotipos y nombre de la entidad o personas que relizan el proyecto. 
 
+* Indice: 
+
+Este debe ser fiel y facilitar el acceso a los datos de importancia. Dando posicionamiento en esta hoja a las diferentes partes que incluya el proyecto en si. Puede colocarse detras de las portadas o incluirse al final del mismo. 
+
+
+* Introduccion: 
+
+Generalmente es recomendable colocar una breve introducción al proyecto, la cual puede ser un resumen de lo que contiene el proyecto. No debe exceder del folio de amplitud y en ella tratariamos de responder a todas las cuestiones del proyecto a razón de una o dos lineas de extensión. 
+
+
 
 
 

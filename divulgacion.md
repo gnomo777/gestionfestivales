@@ -87,7 +87,13 @@ Su evaluación se vera reforzada si hemos conseguido alcanzar los objetivos espe
 
 * Objetivos Específicos: Son la expresión cualitativa de un proposito concreto. Se diferencian del Objetivo General por su detalle y complementariedad. La característica principal de éste, es que debe permitir evaluarse facilmente y en un periodo corto o medio de tiempo. 
 
+* Temporalizacion: 
 
+Todo proyecto debe estar ubicado en un periodo de tiempo para poder ver en la finalizacion del proyecto tras su evaluación final los resultados obtenidos. 
+
+. Periodos de dias o semanas pueden calificarse de corto plazo, mientras que si hablamos de meses o años estaremos haciendolo de periodos de medio o largo plazo. 
+
+Tambien en esta seccion deberia implementarse un cronograma de actividades que se pretender realizar durante el desarrollo del proyecto. 
 
 
 

@@ -81,6 +81,12 @@ Ejemplos de enunciados de Objetivos son:
 
 En general todos los proyectos distinguen 2 tipos de objetivos aunque hay que atender que la clasificación que se hace entre objetivos generales y específicos es relativa, ya que cada uno de ellos puede ser considerado como general o especifico según la forma como sean interpretados y de la relación que tengan con otros objetivos. Pero no por ello, una vez realizado un analisis de la reaidad debemos concretar en el papel los objetivos que prentendemos. 
 
+* Objetivos Generales: Expresión cualitativa de un propósito general. El/los objetivo/s Generales deben expresar lo que se prentende conseguir a medio/largo plazo con la realización del proyecto. 
+
+Su evaluación se vera reforzada si hemos conseguido alcanzar los objetivos especificos del propio proyecto. 
+
+* Objetivos Específicos: Son la expresión cualitativa de un proposito concreto. Se diferencian del Objetivo General por su detalle y complementariedad. La característica principal de éste, es que debe permitir evaluarse facilmente y en un periodo corto o medio de tiempo. 
+
 
 
 

@@ -69,6 +69,17 @@ que deseamos abarcar en el.
 
 Esta sección responde a la cuestion de a quien va dirigido el proyecto. Como ya he comentado es necesario dar concrección a todos estos datos puesto que si deseamos abarcar más de lo que nos es posible o recomendable no podremos afinar en los objetivos a conseguir.
 
+* Objetivos: 
+
+Un objetivo tiene que ser la expresión evaluable de un proposito y han de estar comprendidos en un espacio de tiempo. 
+
+Todos los Objetivos en su redacción deben estar escritos en Infinitivo. 
+Ejemplos de enunciados de Objetivos son: 
+- Transformar la sociedad del barrio de ..... 
+- Mejorar la autoestima en... 
+- Motivar a los/as alumnos a .... 
+
+En general todos los proyectos distinguen 2 tipos de objetivos aunque hay que atender que la clasificación que se hace entre objetivos generales y específicos es relativa, ya que cada uno de ellos puede ser considerado como general o especifico según la forma como sean interpretados y de la relación que tengan con otros objetivos. Pero no por ello, una vez realizado un analisis de la reaidad debemos concretar en el papel los objetivos que prentendemos. 
 
 
 

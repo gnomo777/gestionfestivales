@@ -65,7 +65,9 @@ Los proyectos generalmente son llevados a cabo en un ambito muy cerrado. General
 Debemos situar tanto el donde se realiza el proyecto como el territorio 
 que deseamos abarcar en el. 
 
+* Destinatarios: 
 
+Esta sección responde a la cuestion de a quien va dirigido el proyecto. Como ya he comentado es necesario dar concrección a todos estos datos puesto que si deseamos abarcar más de lo que nos es posible o recomendable no podremos afinar en los objetivos a conseguir.
 
 
 

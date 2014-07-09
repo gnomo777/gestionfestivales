@@ -104,6 +104,18 @@ En esta sección del proyecto contaremos tanto la forma general que tomaran toda
 Si las explicacones fuesen muy extensas o necesitasemos un desglose de todos/as las actividades y dinámicas es mejor recurrir a un anexo en vez de incluirlas todas en esta sección. 
 
 
+* Recursos Humanos. Equipo Técnico. 
+
+Aquí, en esta parte del proyecto describiremos todos los perfiles de las personas que llevaran a cabo el proyecto. 
+
+Desde la particularidad a la generalidad. Dando todo tipo de detalles de quienes son los responsables del mismo y con que personas se cuentan para desarrollar todas las actividades. La inclusión o no de voluntarios,y el perfil de los mismos si se necesitan, la contratación de personal exterior al proyecto... etc. 
+
+* Recursos Humanos. Equipo Técnico. 
+
+Aquí, en esta parte del proyecto describiremos todos los perfiles de las personas que llevaran a cabo el proyecto. 
+
+Desde la particularidad a la generalidad. Dando todo tipo de detalles de quienes son los responsables del mismo y con que personas se cuentan para desarrollar todas las activadades. La inclusión o no de voluntarios,y el perfil de los mismos si se necesitan, la contratación de personal exterior al proyecto... etc. 
+
 
 
 el saber  hablar

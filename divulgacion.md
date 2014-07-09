@@ -118,8 +118,3 @@ Desde la particularidad a la generalidad. Dando todo tipo de detalles de quienes
 
 
 
-el saber  hablar
-orden
-cumplido
-buen delega
-donde busco 

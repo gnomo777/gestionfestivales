@@ -96,6 +96,29 @@ Todo proyecto debe estar ubicado en un periodo de tiempo para poder ver en la fi
 Tambien en esta seccion deberia implementarse un cronograma de actividades que se pretender realizar durante el desarrollo del proyecto. 
 
 
+* Metodologia: 
+
+La metodologia es el como vamos a llevar a cabo nuestro proyecto. 
+En esta sección del proyecto contaremos tanto la forma general que tomaran todas nuestras sesiones de trabajo en el proyecto (Ej. Una metodologia participativa, activa, comunicativa).. como una descripción de las actividades a realizar ( Ej.  pre produccion del concierto produccion : En ellos reaizaremos....) 
+
+Si las explicacones fuesen muy extensas o necesitasemos un desglose de todos/as las actividades y dinámicas es mejor recurrir a un anexo en vez de incluirlas todas en esta sección. 
+
+
+
+* Metodologia: 
+
+La metodologia es el como vamos a llevar a cabo nuestro proyecto. 
+En esta sección del proyecto contaremos tanto la forma general que tomaran todas nuestras sesiones de trabajo en el proyecto (Ej. Una metodologia participativa, activa, comunicativa).. como una descripción de las actividades a realizar ( Ej. Talleres manuales: En ellos reaizaremos....) 
+
+Si las explicacones fuesen muy extensas o necesitasemos un desglose de todos/as las actividades y dinámicas es mejor recurrir a un anexo en vez de incluirlas todas en esta sección. 
+
+* Metodologia: 
+
+La metodologia es el como vamos a llevar a cabo nuestro proyecto. 
+En esta sección del proyecto contaremos tanto la forma general que tomaran todas nuestras sesiones de trabajo en el proyecto (Ej. Una metodologia participativa, activa, comunicativa).. como una descripción de las actividades a realizar ( Ej. Talleres manuales: En ellos reaizaremos....) 
+
+Si las explicacones fuesen muy extensas o necesitasemos un desglose de todos/as las actividades y dinámicas es mejor recurrir a un anexo en vez de incluirlas todas en esta sección. 
+
 
 el saber  hablar
 orden

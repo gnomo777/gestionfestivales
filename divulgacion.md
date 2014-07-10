@@ -132,3 +132,10 @@ Es recomendable hacer constar que todo proyecto no debe depender de un unico cau
 
 Una de las partes más importantes de un proyecto es la inclusión de una evaluación que pueda asegurar la reacionalización y cuantificación de los objetivos espuestos en el proyecto. 
 
+Generalmente encontraremos 3 tipos de evaluación en el proyecto. 
+
+1) Evaluación inicial: Esta generalmente se basará en un analisis de la realidad del entorno en el que se desarrollara el proyecto y que da pie a nuestra fundamentación. Aqui esplicaremos los metodos que hemos utilizado. Tambien puede dar cabida a otros metodos que hayamos utilizado. 
+
+2) Evaluación procesual: Para proyectos de medio o largo plazo, es recomendable tener una evaluación que nos permita observar como vamos consiguiendo los objetivos especificos durante el mismo desarrollo del proyecto. Es por esto que debemos exponer metodos y herramientas que nos ayuden a valorar tanto cuantitativamente como cualitativamente los progresos reaizados en la consecucion de objetivos. 
+
+3) Evaluación final: Todo proyecto debe tener un final. Esto es necesario para poder sacar adelante una evaluación final que demuestre si hemos alcanzado los objetivos generales y especificos que en un principio pretendiamos.. 

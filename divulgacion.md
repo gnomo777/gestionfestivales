@@ -120,7 +120,7 @@ Desde la particularidad a la generalidad. Dando todo tipo de detalles de quienes
 * Recursos Materiales. Financiación: 
 
 Debemos explicar todos los materiales tanto con los que contamos como los que vamos a necesitar para la realización y puesta en practica del proyecto. Conviene crear un anexo donde explicar las funciones de cada material a utlizar. 
-
+En los recursos materiales es conveniente hacer sacar a relucir,Si se poseen medios técnicos especificos para la activdad.
 
 
 

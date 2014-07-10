@@ -117,4 +117,10 @@ Aquí, en esta parte del proyecto describiremos todos los perfiles de las person
 Desde la particularidad a la generalidad. Dando todo tipo de detalles de quienes son los responsables del mismo y con que personas se cuentan para desarrollar todas las activadades. La inclusión o no de voluntarios,y el perfil de los mismos si se necesitan, la contratación de personal exterior al proyecto... etc. 
 
 
+* Recursos Materiales. Financiación: 
+
+Debemos explicar todos los materiales tanto con los que contamos como los que vamos a necesitar para la realización y puesta en practica del proyecto. Conviene crear un anexo donde explicar las funciones de cada material a utlizar. 
+
+
+
 

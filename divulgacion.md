@@ -126,4 +126,5 @@ En los recursos materiales es conveniente hacer sacar a relucir,Si se poseen med
 
 -En el apartado de financiación debe explicarse correctamente y acompañarse de un presupuesto todo lo que se solicita a la entidad demandante, ya sea un particular o una entidad o asociación.... 
 
+Es recomendable hacer constar que todo proyecto no debe depender de un unico cauce de financiación, pues generalmente las entidades publicas desestiman ese tipo de proyectos y a la vez corremos el peligro de que, si la empresa, entidad, organización no aporta el dinero, el proyecto puede desaparecer sin llegar a completar su vida y por lo tanto dejandolo sin evaluar. 
 

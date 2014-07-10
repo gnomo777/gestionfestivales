@@ -128,3 +128,7 @@ En los recursos materiales es conveniente hacer sacar a relucir,Si se poseen med
 
 Es recomendable hacer constar que todo proyecto no debe depender de un unico cauce de financiación, pues generalmente las entidades publicas desestiman ese tipo de proyectos y a la vez corremos el peligro de que, si la empresa, entidad, organización no aporta el dinero, el proyecto puede desaparecer sin llegar a completar su vida y por lo tanto dejandolo sin evaluar. 
 
+ Evaluación: 
+
+Una de las partes más importantes de un proyecto es la inclusión de una evaluación que pueda asegurar la reacionalización y cuantificación de los objetivos espuestos en el proyecto. 
+

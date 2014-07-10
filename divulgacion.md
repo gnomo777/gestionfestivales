@@ -81,13 +81,13 @@ Ejemplos de enunciados de Objetivos son:
 
 En general todos los proyectos distinguen 2 tipos de objetivos aunque hay que atender que la clasificación que se hace entre objetivos generales y específicos es relativa, ya que cada uno de ellos puede ser considerado como general o especifico según la forma como sean interpretados y de la relación que tengan con otros objetivos. Pero no por ello, una vez realizado un analisis de la reaidad debemos concretar en el papel los objetivos que prentendemos. 
 
-* Objetivos Generales: Expresión cualitativa de un propósito general. El/los objetivo/s Generales deben expresar lo que se prentende conseguir a medio/largo plazo con la realización del proyecto. 
+ Objetivos Generales: Expresión cualitativa de un propósito general. El/los objetivo/s Generales deben expresar lo que se prentende conseguir a medio/largo plazo con la realización del proyecto. 
 
 Su evaluación se vera reforzada si hemos conseguido alcanzar los objetivos especificos del propio proyecto. 
 
-* Objetivos Específicos: Son la expresión cualitativa de un proposito concreto. Se diferencian del Objetivo General por su detalle y complementariedad. La característica principal de éste, es que debe permitir evaluarse facilmente y en un periodo corto o medio de tiempo. 
+ Objetivos Específicos: Son la expresión cualitativa de un proposito concreto. Se diferencian del Objetivo General por su detalle y complementariedad. La característica principal de éste, es que debe permitir evaluarse facilmente y en un periodo corto o medio de tiempo. 
 
-* Temporalizacion: 
+ Temporalizacion: 
 
 Todo proyecto debe estar ubicado en un periodo de tiempo para poder ver en la finalizacion del proyecto tras su evaluación final los resultados obtenidos. 
 
@@ -122,5 +122,8 @@ Desde la particularidad a la generalidad. Dando todo tipo de detalles de quienes
 Debemos explicar todos los materiales tanto con los que contamos como los que vamos a necesitar para la realización y puesta en practica del proyecto. Conviene crear un anexo donde explicar las funciones de cada material a utlizar. 
 En los recursos materiales es conveniente hacer sacar a relucir,Si se poseen medios técnicos especificos para la activdad ejemplo (sonido ,pendones, buckin,luces etc
 
+ Disitinguir del material inventariable (mesas equipos informaticos, cosas que realmente pueden volverse a usar con el tiempo) del no inventariable (boligrafos hojas, pegamentos...) 
+
+-En el apartado de financiación debe explicarse correctamente y acompañarse de un presupuesto todo lo que se solicita a la entidad demandante, ya sea un particular o una entidad o asociación.... 
 
 

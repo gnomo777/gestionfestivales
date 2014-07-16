@@ -45,4 +45,3 @@ el otro tipo es es el denominado __toma__ es un poco riesgoso pero es en el que 
 
 
 
-3) Evaluación final: Todo proyecto debe tener un final. Esto es necesario para poder sacar adelante una evaluación final que demuestre si hemos alcanzado los objetivos generales y especificos que en un principio pretendiamos.. 
